@@ -1,0 +1,4 @@
+step 1)
+createing error handling middlwware inside errorController
+
+step 2) class appError that will basically accept the message,statusCode as a parameter 
